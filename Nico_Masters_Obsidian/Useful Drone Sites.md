@@ -1,0 +1,61 @@
+
+# Construction guides and tips
+
+- buzzed/light with built in battery, to retrieve drone, when lost underground
+- LiPo vs. Li-ion (Use LiPo):
+	- https://www.unmannedsystemstechnology.com/feature/lipo-vs-lithium-ion-batteries-for-unmanned-robotics-applications/#:~:text=When%20deciding%20on%20a%20battery,probably%20the%20way%20to%20go.
+- Drone Basics (https://oscarliang.com/fpv-drone-guide/#Basic-Drone-Control)
+	- Motors:
+		- Lower KV ratings for better efficiency
+		- Larger LiPo or Li-ion Batteries
+		- 
+	- Propellers:
+		- Lower pitch propeller for better efficiency
+		- 5" = smaller, 7" more payload and better efficiency
+		- Therefore 6" might be optimal? but check availability?
+	-  Flight Controller
+		- Popular firmware = Betaflight 
+			- open-source
+			- performs well
+			- updated frequently
+			- huge selection of flight controllers available
+			- added features for long-range flights
+		- 
+	- ESC 
+		- Popular firmware = BLHeli_S or BLHeli_32 (99% of FPV's)
+		- Firmware: BLHeli_32 Is faster and more future proof
+		- Protocol: DShot300 and DShot600 (number is speed of controller)
+	- Blackbox: for tuning drone. 
+		- records flight data which can be used for tuning PID settings
+		- https://oscarliang.com/pid-filter-tuning-blackbox/
+- Extend drone Time of flight (https://oscarliang.com/improve-fpv-drone-flight-time-efficiency/)
+	- Higher C-rating = less voltage sag but more inefficient
+	- Li-ion = ~double capacity for same weight, but lower discharge rate
+	- Lower pitch propeller for better efficiency
+	- 5" = smaller, 7" more payload and better efficiency
+	- Properly balance Center of gravity (COG). 4 motors working at same level = higher efficiency
+- Accessory Guide (Chargers, Radio receiver/Remote controller) (https://oscarliang.com/my-tools-gear-quads/)
+	- Build tutorial: (https://oscarliang.com/how-to-build-fpv-drone/)
+- Propellers(https://oscarliang.com/propellers/#Propeller-Size)
+	- Suggestion: HQ props, triblades = more smoothness
+		- For 6":
+			- long range and flight time: Gemfan Hurricane 6038-4
+			- Speed and racing: HQ DP 6×4.5×3
+		- For 5":
+			- All rounder:  HQ 5×4.3×3 V2S
+			- Durable and cheap: DAL Cyclone 5045C
+		- For 7":
+			- All rounder: HQ DP 7×3.5×3-v1s
+	- Mounting Propellers:
+		- 2 CW and 2 CCW
+		- CW (R)= left top + right bottom (Betaflight default)
+		- CCW (C)= left bottom + right top (Betaflight default)
+	- Components compatibility table (https://oscarliang.com/table-prop-motor-lipo-weight/)
+	- Props can produce 20-30% less thrust in air compared to static thrust test
+	- 
+- 5" Drone Parts list
+	- https://oscarliang.com/best-5-inch-fpv-drone-parts/
+- 3D Printing Predesigned parts
+	- Thingiverse: https://www.thingiverse.com/
+	- Very compatible with "Source One" frames
+
