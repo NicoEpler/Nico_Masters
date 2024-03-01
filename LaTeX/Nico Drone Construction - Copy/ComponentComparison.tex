@@ -1,0 +1,250 @@
+\chapter{Component Comparisons}
+%\addcontentsline{toc}{chapter}{Introduction}\label{Introduction}
+
+In this section different component of the drone will be discussed. The components discussed are those involved in the construction of the basic drone, before any mine specific sensors are added.
+
+\section{Frame}
+	Frame
+	\begin{itemize}
+		\item Source One V5: Affordable, open-source, compatible with latest hardware, large collection of spare parts, mods and accessories ("check Thingyverse website"), 123.5g
+		\item AOS 5 V2: FPV performance focussed, exceptional noise performance and prop wash handling, complex building and repairing, arms are prone to damage during crashes, 125g
+	\end{itemize}
+
+	Final Decision: Source One V5
+	
+\section{Motors and Propellers}
+	\subsection{Motor Considerations}
+		\begin{itemize}
+			\item Lower KV ratings for better efficiency
+			\item Larger LiPo or Li-ion Batteries
+		\end{itemize}
+
+	\subsection{Propeller Considerations}
+		\begin{itemize}
+			\item Lower pitch propeller for better efficiency
+			\item 5" = smaller, 7" more payload and better efficiency
+			\item Therefore 6" might be optimal? but check availability?
+		\end{itemize}
+	
+	Combining these meanings, ``OreHawk'' could suggest a project or initiative that involves a vigilant and focused approach to monitoring, extracting, or managing valuable minerals or resources in the mining industry. The name implies a keen eye for detail and a strategic, purposeful effort in dealing with ore-related activities.
+
+
+\section{Electric Speed Controller (ESC)}
+	Some of the basic requirements are:
+	\begin{itemize}
+		\item Fully electric
+		\item under 1m in height
+		\item Fully autonomous
+		\item must map and scan the area (see objectives)
+		\item Must be able to identify misfires and remove them
+		\item Must be able to predict the direction of the reef
+		\item Must map the holes and pass on the info to a secondary robot
+		\item Must set up a comms network
+		\item Battery life of 8 hours
+		\item Must be able to scan two stope faces in the 8 hours
+		\item 
+	\end{itemize}
+	
+\section{Flight Controller/Autopilot}
+
+	\begin{enumerate}
+		\item Map the area
+		\item Map the stope face
+		\begin{enumerate}
+			\item Surface map
+			\item Reef map
+		\end{enumerate}
+		\item Scan and map drilled holes
+		\begin{enumerate}
+			\item Accurately map position, depth and angle of hole
+			\item Scan emulsion in hole (replace cup test)
+			\item Scan for misfires
+		\end{enumerate}
+		\item Remove misfires
+		\item Program detonators
+		\item Transmit all data to base station
+	\end{enumerate}
+
+\section{Details of the environment}
+	During one of my visits to Impala Platinum mines, several photos of the environment was captured and shown below. Please note these images should not be shared, however, we can potentially use them in your dissertations. 
+	
+	Some notes on the environment:
+	
+	\begin{itemize}
+		\item Extremely rough terrain
+		\item The reef is less than 1m in height, so the robot has to be quite compact
+		\item The ground has the texture of a fine paste that has Chrome in it, so it will grind away at any moving parts. 
+		\item There are tons of objects in the way, these range from support pillars, roof bolts, cables, discarded things etc
+		\item The temperature and humidity is very high
+		\item There is lots of particle matter in the air
+		\item It is very dark
+		\item 
+	\end{itemize}
+
+	Here are some of the images I have and a description of them:
+
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.7\linewidth]{Images/Impala1}
+		\caption{Impala platinum mine. Person for scale, on the left is the narrow reef, which is less than 1m in height. Note the rise between the walkway and the reef that is being mined. The wooden pillars are there to support the roof.}
+		\label{fig:Impala1}
+	\end{figure}
+
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.7\linewidth]{Images/Impala2}
+		\caption{Impala platinum mine. An image of the reef that has been mined. If you look at the top left of the image, there is a roof bolt sticking out. Note the roughness of the mined area, the vehicle will have to travel through this. Note how there are also wires and other things in the way. Nothing is smooth.}
+		\label{fig:Impala2}
+	\end{figure}
+
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.7\linewidth]{Images/Impala3}
+		\caption{Impala platinum mines. Notice the step up between the walkway and the reef. There will be a scissor lift to raise the robot to the reef. Again, look at the ground surface. It is almost like a grinding paste with Chrome in it, that will wear away any moving parts. }
+		\label{fig:Impala3}
+	\end{figure}
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.7\linewidth]{Images/Impala4}
+		\caption{Impala platinum mine. Person for scale. Notice all the cables, the roughness of the roof and all the obstacles in the way of the robot.}
+		\label{fig:Impala4}
+	\end{figure}
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.7\linewidth]{Images/Impala5}
+		\caption{Impala platinum mine. Notice the people sitting in the background for scale. }
+		\label{fig:Impala5}
+	\end{figure}
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.7\linewidth]{Images/Impala6}
+		\caption{Impala platinum mines. Notice the roof bolts}
+		\label{fig:Impala6}
+	\end{figure}
+	
+\section{Specifications of stope face}
+	
+	\subsection{Stope Face specifications}
+		\begin{itemize}
+			\item Length: 15m? 
+			\item Height: 900mm
+			\item Number of holes: 150
+			\item 
+		\end{itemize}
+		
+	\subsection{Hole specifications}
+		\begin{itemize}
+			\item Diameter: 38mm $\pm$ 3mm
+			\item Depth: 2000mm to 2200mm
+			\item Max angle: 0 to 15 degrees
+			\item Distance from roof to hole: 150mm to 200mm
+			\item Distance from floor to hole: 150mm to 200mm
+			\item 
+		\end{itemize}
+		
+	\subsection{Terrain and environment specifications}
+		\begin{itemize}
+			\item Slope: 12 degrees
+			\item Maximum obstacle size: 100mm
+			\item Particle matter: $1.88MG/M^3$
+			\item Temperature:28-32 degrees Wet bulb
+			\item Duration of operation:
+			\item Lift platform: 2.3m by 8m
+		\end{itemize}
+	
+\section{Project plan and timeline}
+
+	\subsection{Year 1 (2024)}
+		\begin{itemize}
+			\item Field test handheld scanner
+			\item Build the rover
+			\item Basic navigation and mapping
+		\end{itemize}
+
+	\subsection{Year 2 (2025)}
+		\begin{itemize}
+			\item 3rd person view on a tablet
+			\item Advanced navigation of cluttered environment
+			\item Navigation of rough terrain
+			\item Advanced mapping of mine/tunnel
+		\end{itemize}
+
+	\subsection{Year 3 (2026)}
+		\begin{itemize}
+			\item System integration
+			\item Comms problem solved
+			\item Advanced navigation of rough terrain
+			\item Test in mine
+			\item Robotic arm control
+			\item Mapping of holes
+			\item Mapping of reef
+		\end{itemize}
+
+\section{Testing methodology}
+	The goal is to rapidly test and prototype everything. As we develop something small we need to test it, film it and document it. Enaex is all about ``Fail fast'', where we need to try things as soon as possible to see if they will work, as soon as they don't work, pivot and try something else.
+	
+	There are several caves and abandoned mines and tunnels in the mountains around Cape Town and Stellenbosch. I will go explore some in the coming months. These will be used as initial environments to test these sensors and prototypes. 
+	
+	Once we have a working prototype, I can investigate testing in an active mine shaft in Johannesburg, this will obviously be very time consuming and expensive, so we have to thoroughly test these devices first, to ensure a successful test.  
+
+	Make sure that every test is well documented and backed up. This will make writing up your thesis much easier, as you wont have to repeat any early day tests. Make sure all the data and images are of good quality for the final report, even if you do not end up using the test. 
+	
+	Additionally, if something goes wrong (lost robot, broken PC, etc) you have initial data and results that you can use to add to your report. I have had students that have lost almost all their data before a submission, resulting in a sub-par mark where their research deserved a much higher mark. 
+\section{Common sensor pack}
+	This project will consist of several robotic platforms:
+	
+	\begin{itemize}
+		\item Main rover
+		\item Rover test platforms (RC cars, etc)
+		\item Drones
+		\item Handheld scanner
+	\end{itemize}
+	
+	It is crucial that we stick to a common sensor architecture. Obviously, the drones will have fewer sensors due to their payload capacity, however the other platforms must stick to the same sensors. This way our code becomes independent of the platform. Some platforms might have fewer sensors, but the sensors they do have must be the same (for example, if you use an RGB-D camera, it must be the same camera used on all the other platforms).
+	
+	Therefore, it is crucial to pick the correct sensors from day one! We will do a thorough literature review and component comparison before we purchase anything. 
+
+
+\section{Conferences:}
+	We need to publish continuously. There are several conferences coming up that we need to try aim for:
+	
+	\begin{itemize}
+		\item RobMech: Very weak conference\\
+		Due date:
+		\item CCA24: Very weak conference\\
+		Due date: 
+		\item ICRA: Top robotics conference\\
+		Due date:
+		\item IROS: Top robotics conference\\
+		Due date:
+	\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
