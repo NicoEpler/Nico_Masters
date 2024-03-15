@@ -5,9 +5,9 @@
 
 
 
-
-
-
-
 - Stats Calculator (Interesting)
 	- https://www.ecalc.ch/xcoptercalc.php
+
+- Still need the following components:
+	- Dedicated lighting system for RGBD camera
+	- FLIR Blackfly S - Optical Flow Sensor

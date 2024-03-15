@@ -96,11 +96,6 @@
 	- https://shop.iflight.com/electronics-cat27/BLITZ-E55-4-IN-1-2-6S-ESC-Pro1694
 	- https://holybro.com/collections/fpv-esc/products/tekko32-f4-4in1-60a-esc
  -  [STM32 Chip Naming Convention](https://oscarliang.com/f1-f3-f4-flight-controller/)
-
-
-
-
-# Component Comparisons
 - Batteries:
 	- [GENSACE 8000MAH 4S 14.8V BASHING PRO 100C](https://www.rc-king.co.za/4s-lipo-battery/3448-gensace-8000mah-4s-148v-bashing-pro-100c-2621024439904.html)
 		- [752g](https://genstattu.com/gens-ace-4s2p-8000mah-100c-14-8v-bashing-pro-g-tech-lipo-battery-pack-with-ec5-plug-for-arrma/)
@@ -119,3 +114,18 @@
 6s = 22.2V
 
 
+
+# Useful Drone Info from journal papers (Drone Construction)
+- [RMF-Obelix](https://ieeexplore.ieee.org/document/9561999)
+	- 
+
+
+# Useful Drone Info from journal papers (Collision Avoidance)
+- Euler spring collision Protection
+
+
+
+
+# Useful Drone Info from journal papers (SLAM)
+- A ROS Multi-Tier UAV Localization Module Based on GNSS, Inertial and Visual-Depth Data
+	-  ORB_SLAM2  is a highly integrable simultaneous localization and mapping (SLAM) algorithm option, as it can utilize monocular, stereo and/or visual-depth (RGB-D) data.
