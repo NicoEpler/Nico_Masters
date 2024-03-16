@@ -1,1 +1,0 @@
-TBS Source One V5 Frame file by 1lama on Thingiverse: https://www.thingiverse.com/thing:6233066
