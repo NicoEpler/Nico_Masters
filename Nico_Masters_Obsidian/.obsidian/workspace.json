@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Drone Sites.md",
+                "file": "Nico Masters/Useful Drone Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,16 @@
             "id": "bb7e21d4b9e79a91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful Drone Info from journal papers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "865042e15cac8e18",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Drone Sites.md",
+                "file": "Nico Masters/Useful Drone Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Drone Sites.md",
+                "file": "Nico Masters/Useful Drone Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Drone Sites.md"
+                "file": "Nico Masters/Useful Drone Info.md"
               }
             }
           }
@@ -158,16 +162,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bda9e8546a597671",
+  "active": "501bbeb91728c43b",
   "lastOpenFiles": [
-    "Useful Drone Info from journal papers.md",
+    "Nico Masters/Final Drone Design Specs.md",
+    "Nico Masters/Add to Eneax Document.md",
+    "Nico Masters/Useful Drone Info.md",
+    "Nico Masters/Useful Drone Info from journal papers.md",
+    "Useful Latex Stuff.md",
+    "Guides/Setup/Useful Latex Stuff.md",
+    "Guides/Setup/Software.md",
+    "Guides/Setup/Simulators.md",
+    "Guides/Setup/create ros2 workspace.md",
+    "Guides/Setup/Computer Setup (Install All Software and Simulators).md",
     "Useful Drone Sites.md",
+    "Useful Drone Info from journal papers.md",
     "Final Drone Design Specs.md",
     "Install LaTeX for Vistual Studio Code (Windows).md",
     "Install GitHub on visual Studio.md",
     "ToDo.md",
     "Add to Eneax Document.md",
-    "Useful Latex Stuff.md",
     "().md",
     "Untitled.canvas",
     "2024-02-20.md",
