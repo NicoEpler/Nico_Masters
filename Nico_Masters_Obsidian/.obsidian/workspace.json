@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b05180a5eb6b5d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nico Masters/Drone Docking Station.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bb7e21d4b9e79a91",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nico Masters/Useful Drone Info.md",
+                "file": "Nico Masters/Drone Docking Station.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nico Masters/Useful Drone Info.md",
+                "file": "Nico Masters/Drone Docking Station.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nico Masters/Useful Drone Info.md"
+                "file": "Nico Masters/Drone Docking Station.md"
               }
             }
           }
@@ -162,11 +175,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "501bbeb91728c43b",
+  "active": "b05180a5eb6b5d05",
   "lastOpenFiles": [
+    "Nico Masters/Drone Docking Station.md",
+    "Nico Masters/Useful Drone Info.md",
     "Nico Masters/Final Drone Design Specs.md",
     "Nico Masters/Add to Eneax Document.md",
-    "Nico Masters/Useful Drone Info.md",
     "Nico Masters/Useful Drone Info from journal papers.md",
     "Useful Latex Stuff.md",
     "Guides/Setup/Useful Latex Stuff.md",
