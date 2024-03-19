@@ -32,23 +32,31 @@
             }
           },
           {
-            "id": "bb7e21d4b9e79a91",
+            "id": "c3ac5e47829a6d0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "865042e15cac8e18",
+            "id": "15a181c64ef1c457",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Nico Setup Guides/Running ROS2 and PX4 in Gazebo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nico Masters/Drone Docking Station.md",
+                "file": "Nico Setup Guides/Running ROS2 and PX4 in Gazebo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nico Masters/Drone Docking Station.md",
+                "file": "Nico Setup Guides/Running ROS2 and PX4 in Gazebo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nico Masters/Drone Docking Station.md"
+                "file": "Nico Setup Guides/Running ROS2 and PX4 in Gazebo.md"
               }
             }
           }
@@ -175,10 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b05180a5eb6b5d05",
+  "active": "15a181c64ef1c457",
   "lastOpenFiles": [
-    "Nico Masters/Drone Docking Station.md",
+    "Nico Setup Guides/Useful Latex Stuff.md",
+    "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
+    "Nico Setup Guides/Running ROS2 and PX4 in Gazebo.md",
+    "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
+    "Nico Setup Guides/Cloning From Git using Lab PC.md",
+    "Chris Guides/Setup/Software.md",
+    "Chris Guides/Setup/Simulators.md",
+    "Chris Guides/Setup/create ros2 workspace.md",
+    "Chris Guides/Setup/Computer Setup (Install All Software and Simulators).md",
+    "Chris Guides/Python Gym/Skeleton for simulation loop.md",
     "Nico Masters/Useful Drone Info.md",
+    "Nico Masters/Drone Docking Station.md",
     "Nico Masters/Final Drone Design Specs.md",
     "Nico Masters/Add to Eneax Document.md",
     "Nico Masters/Useful Drone Info from journal papers.md",
@@ -193,11 +211,6 @@
     "Final Drone Design Specs.md",
     "Install LaTeX for Vistual Studio Code (Windows).md",
     "Install GitHub on visual Studio.md",
-    "ToDo.md",
-    "Add to Eneax Document.md",
-    "().md",
-    "Untitled.canvas",
-    "2024-02-20.md",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
