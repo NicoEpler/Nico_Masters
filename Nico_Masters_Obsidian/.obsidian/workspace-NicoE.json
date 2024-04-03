@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
+                "file": "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
+                "file": "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
+                "file": "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md"
+                "file": "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "027ab4b8c5746f57",
   "lastOpenFiles": [
-    "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
     "Nico Setup Guides/Cloning From Git using Lab PC.md",
     "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
     "Nico Setup Guides/Useful Latex Stuff-NicoE.md",
     "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
+    "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
     "Nico Setup Guides/Running ROS2 and PX4 in Gazebo.md",
     "Nico Setup Guides/Useful Latex Stuff.md",
     "Nico Masters/Drone Simulations.md",
