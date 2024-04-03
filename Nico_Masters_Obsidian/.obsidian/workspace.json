@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c5feecde6f7fab5b",
+        "id": "fc5a3066e375d96c",
         "type": "tabs",
         "children": [
           {
-            "id": "501bbeb91728c43b",
+            "id": "027ab4b8c5746f57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nico Masters/Useful Drone Info.md",
+                "file": "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b05180a5eb6b5d05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nico Masters/Drone Docking Station.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb7e21d4b9e79a91",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "865042e15cac8e18",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "section:()",
+                "query": "tag:#Getting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nico Masters/Drone Docking Station.md",
+                "file": "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nico Masters/Drone Docking Station.md",
+                "file": "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nico Masters/Drone Docking Station.md"
+                "file": "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md"
               }
             }
           }
@@ -175,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b05180a5eb6b5d05",
+  "active": "027ab4b8c5746f57",
   "lastOpenFiles": [
-    "Nico Masters/Drone Docking Station.md",
+    "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
+    "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
+    "Nico Setup Guides/Useful Latex Stuff-NicoE.md",
+    "Nico Setup Guides/Useful Latex Stuff.md",
+    "Nico Masters/Drone Simulations.md",
     "Nico Masters/Useful Drone Info.md",
+    "Chris Guides/Setup/Software.md",
+    "Chris Guides/Setup/Simulators.md",
+    "Chris Guides/Setup/create ros2 workspace.md",
+    "Chris Guides/Setup/Computer Setup (Install All Software and Simulators).md",
+    "Nico Masters/Drone Docking Station.md",
     "Nico Masters/Final Drone Design Specs.md",
     "Nico Masters/Add to Eneax Document.md",
     "Nico Masters/Useful Drone Info from journal papers.md",
@@ -194,10 +174,6 @@
     "Install LaTeX for Vistual Studio Code (Windows).md",
     "Install GitHub on visual Studio.md",
     "ToDo.md",
-    "Add to Eneax Document.md",
-    "().md",
-    "Untitled.canvas",
-    "2024-02-20.md",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }

@@ -3,7 +3,7 @@
 
 - [Table Code generator](https://www.tablesgenerator.com/)
 - Shortcuts for Bold, Underline, Italics and Links LaTeX VSCode
-	- File->Preferences->Keyboard Shortcuts ->Open Keyboard Shortcuts(JSON)-> Then do the following
+	- File->Preferences->Keyboard Shortcuts ->Open Keyboard Shortcuts(JSON)(icon in top right corner)-> Then do the following
 ```JSON
 // Place your key bindings in this file to override the defaults
 
