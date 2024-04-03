@@ -148,6 +148,9 @@
   },
   "active": "027ab4b8c5746f57",
   "lastOpenFiles": [
+    "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
+    "Nico Setup Guides/Running ROS2 and PX4 in Gazebo.md",
+    "Nico Setup Guides/Cloning From Git using Lab PC.md",
     "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
     "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
     "Nico Setup Guides/Useful Latex Stuff-NicoE.md",
@@ -171,9 +174,6 @@
     "Useful Drone Sites.md",
     "Useful Drone Info from journal papers.md",
     "Final Drone Design Specs.md",
-    "Install LaTeX for Vistual Studio Code (Windows).md",
-    "Install GitHub on visual Studio.md",
-    "ToDo.md",
     "Untitled.canvas"
   ]
 }
