@@ -15,5 +15,13 @@ git config --global user.email
 git config --global --list
 ```
 4. Download following extensions for VSCode
-	- 
+	- Git Extension Pack
+	- Git Graph
+	- Git History
+	- GitHub Pull Requests
+	- gitignore
+	- GitLens - Git Supercharged
+	- Open in GitHub, Bitbucket, Gitlab, VisualStudio.com !
+	- Start git-bash
+5. Lets goo!!!
 

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
+                "file": "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0369304f24d023b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nico Setup Guides/Windows Software Installations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
+                "file": "Nico Setup Guides/Windows Software Installations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
+                "file": "Nico Setup Guides/Windows Software Installations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md"
+                "file": "Nico Setup Guides/Windows Software Installations.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "027ab4b8c5746f57",
+  "active": "bda9e8546a597671",
   "lastOpenFiles": [
+    "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
+    "Nico Setup Guides/Windows Software Installations.md",
     "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
     "Nico Setup Guides/Cloning From Git using Lab PC.md",
-    "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
-    "Nico Setup Guides/Useful Latex Stuff-NicoE.md",
     "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
+    "Nico Setup Guides/Useful Latex Stuff-NicoE.md",
     "Nico Setup Guides/Running ROS2 and PX4 in Gazebo.md",
     "Nico Setup Guides/Useful Latex Stuff.md",
     "Nico Masters/Drone Simulations.md",
@@ -173,7 +187,6 @@
     "Guides/Setup/Computer Setup (Install All Software and Simulators).md",
     "Useful Drone Sites.md",
     "Useful Drone Info from journal papers.md",
-    "Final Drone Design Specs.md",
     "Untitled.canvas"
   ]
 }
