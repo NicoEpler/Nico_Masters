@@ -14,4 +14,6 @@ git config --global user.email
 
 git config --global --list
 ```
+4. Download following extensions for VSCode
+	- 
 
