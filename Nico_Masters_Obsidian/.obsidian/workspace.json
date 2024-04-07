@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nico Setup Guides/Windows Software Installations.md",
+                "file": "Chris Guides/Setup/Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nico Setup Guides/Windows Software Installations.md",
+                "file": "Chris Guides/Setup/Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nico Setup Guides/Windows Software Installations.md",
+                "file": "Chris Guides/Setup/Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nico Setup Guides/Windows Software Installations.md"
+                "file": "Chris Guides/Setup/Software.md"
               }
             }
           }
@@ -159,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bda9e8546a597671",
+  "active": "0369304f24d023b6",
   "lastOpenFiles": [
+    "Chris Guides/Setup/Simulators.md",
+    "Chris Guides/Setup/create ros2 workspace.md",
+    "Chris Guides/Setup/Computer Setup (Install All Software and Simulators).md",
     "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
     "Nico Setup Guides/Windows Software Installations.md",
     "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
@@ -172,9 +175,6 @@
     "Nico Masters/Drone Simulations.md",
     "Nico Masters/Useful Drone Info.md",
     "Chris Guides/Setup/Software.md",
-    "Chris Guides/Setup/Simulators.md",
-    "Chris Guides/Setup/create ros2 workspace.md",
-    "Chris Guides/Setup/Computer Setup (Install All Software and Simulators).md",
     "Nico Masters/Drone Docking Station.md",
     "Nico Masters/Final Drone Design Specs.md",
     "Nico Masters/Add to Eneax Document.md",
