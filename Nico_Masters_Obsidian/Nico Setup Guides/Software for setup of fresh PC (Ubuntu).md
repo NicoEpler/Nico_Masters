@@ -31,6 +31,13 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 sudo apt install -f
 ```
 
+# Terminator
+```bash
+sudo apt update
+sudo apt upgrade 
+sudo apt install terminator
+```
+
 # Python
 ```bash
 sudo apt install python3
@@ -43,13 +50,17 @@ sudo apt install python3-colcon-common-extensions
 sudo apt update
 sudo apt upgrade
 sudo apt install texlive-full
-code --install-extension james-yu.latex-workshop
-code --install-extension nickfode.latex-formatter
-code --install-extension lw-lonely.latex-table-helper
-code --install-extension mathematic.vscode-latex
-code --install-extension tecosaur.latex-utilities
 ```
-[[Useful Latex Stuff]] for shortcuts in latex
+
+[[Useful Latex Stuff-NicoE]] for shortcuts in latex
+
+
+
+
+
+
+
+# Other installations...............
 # ROS2 (Humble)
 ```bash
 locale  # check for UTF-8
@@ -95,12 +106,6 @@ source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash
 sudo snap install slack
 ```
 
-# Terminator
-```bash
-sudo apt update
-sudo apt upgrade 
-sudo apt install terminator
-```
 
 # Docker
 ```bash
@@ -133,3 +138,5 @@ docker compose version
 docker --version
 docker version
 ```
+
+

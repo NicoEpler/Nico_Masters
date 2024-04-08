@@ -115,7 +115,7 @@ PX4_SYS_AUTOSTART=4001 PX4_SIM_MODEL=gz_cerberus_anymal_b_visual_only ./build/px
 
 
 
-# To Change environment in Launch file and include QGC in startup (Not fully working yet)
+# To Change environment in .Launch file and include QGC in startup (Not fully working yet)
 
 1. Open SRC from VSCode. Located in following directory:
 ```Shell

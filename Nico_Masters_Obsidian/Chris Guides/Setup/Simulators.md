@@ -1,5 +1,4 @@
-Run  [[Computer Setup (Install All Software and Simulators)]] to install everything
-Install [Python](Software%20for%20setup%20of%20fresh%20PC.md) before installing simulators
+Install [Python](Software%20for%20setup%20of%20fresh%20PC%20(Ubuntu).md) before installing simulators
 # F1tenth Python Gym
 ```bash
 virtualenv gym_env

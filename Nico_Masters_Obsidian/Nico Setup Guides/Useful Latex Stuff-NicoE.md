@@ -2,6 +2,8 @@
 # Useful Latex Stuff
 
 - [Table Code generator](https://www.tablesgenerator.com/)
+- $\frac{x}{y^{asf}}$ 
+- $$hkjhkjh$$
 - Shortcuts for Bold, Underline, Italics and Links LaTeX VSCode
 	- File->Preferences->Keyboard Shortcuts ->Open Keyboard Shortcuts(JSON)(icon in top right corner)-> Then do the following
 ```JSON
