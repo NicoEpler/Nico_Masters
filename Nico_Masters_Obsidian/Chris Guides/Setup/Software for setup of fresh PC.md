@@ -1,19 +1,41 @@
-Run  [[Computer Setup (Install All Software and Simulators)]] to install everything
+
+# VS code
+1. Open Ubuntu Software App
+2. Download and install code (VS Code)
+3. Sign in using GitHub
+4. VSCode should automatically install all necessary extensions
+5. Setup Git in VSCode
+	 - includes initializing  and verifying correct username and user email
+```Shell
+sudo apt update
+sudo apt upgrade
+sudo apt install git
+git config --global user.name "NicoEpler"
+git config --global user.email "2390712@sun.ac.za"
+git config --global --list
+```
+6. Clone necessary Repos from Git
+
+# Obsidian
+- download snap file from [Obsidian](https://obsidian.md/download)
+```bash
+cd Downloads
+snap install obsidian_1.5.8_amd64.snap --dangerous --classic
+```
+- Open folder as vault, to access this file
+
+# Chrome
+```bash
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+sudo apt install -f
+```
+
 # Python
 ```bash
 sudo apt install python3
 sudo apt install python3-pip
 sudo apt install python3-colcon-common-extensions
-```
-# VS code
-```bash
-wget -O vscode.deb 'https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64'
-sudo dpkg -i vscode.deb
-```
-or
-```bash
-sudo apt update
-sudo apt install code
 ```
 
 # Latex
@@ -67,19 +89,6 @@ source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash
 ```
 [[ROS2 commands]] 
 
-# Obsidian
-download snap file from [Obsidian](https://obsidian.md/download)
-```bash
-cd Downloads
-snap install obsidian_1.5.8_amd64.snap --dangerous --classic
-```
-
-# Chrome
-```bash
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo dpkg -i google-chrome-stable_current_amd64.deb
-sudo apt install -f
-```
 
 # Slack
 ```bash

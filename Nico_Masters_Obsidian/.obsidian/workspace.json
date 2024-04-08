@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fc5a3066e375d96c",
+        "id": "643a4ec7cb7d0185",
         "type": "tabs",
         "children": [
           {
-            "id": "027ab4b8c5746f57",
+            "id": "5406e97d02d8c27e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0369304f24d023b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nico Masters/Drone Stuff Simulation.md",
+                "file": "Chris Guides/Setup/Software for setup of fresh PC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 457.5
   },
   "right": {
     "id": "0055996111f5cf98",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nico Masters/Drone Stuff Simulation.md",
+                "file": "Chris Guides/Setup/Software for setup of fresh PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nico Masters/Drone Stuff Simulation.md",
+                "file": "Chris Guides/Setup/Software for setup of fresh PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nico Masters/Drone Stuff Simulation.md"
+                "file": "Chris Guides/Setup/Software for setup of fresh PC.md"
               }
             }
           }
@@ -159,15 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0369304f24d023b6",
+  "active": "5406e97d02d8c27e",
   "lastOpenFiles": [
-    "Nico Masters/Drone Simulations.md",
+    "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
+    "Chris Guides/Setup/Software for setup of fresh PC.md",
+    "Computer Setup (Install All Software and Simulators).md",
+    "Chris Guides/Setup/Computer Setup (Install All Software and Simulators).md",
+    "Chris Guides/Setup/Useful Latex Stuff.md",
     "Nico Masters/Drone Stuff Simulation.md",
-    "Chris Guides/Setup/Software.md",
+    "Nico Masters/Drone Simulations.md",
     "Chris Guides/Setup/Simulators.md",
     "Chris Guides/Setup/create ros2 workspace.md",
-    "Chris Guides/Setup/Computer Setup (Install All Software and Simulators).md",
-    "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
     "Nico Setup Guides/Windows Software Installations.md",
     "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
     "Nico Setup Guides/Cloning From Git using Lab PC.md",
@@ -185,8 +174,6 @@
     "Guides/Setup/Software.md",
     "Guides/Setup/Simulators.md",
     "Guides/Setup/create ros2 workspace.md",
-    "Guides/Setup/Computer Setup (Install All Software and Simulators).md",
-    "Useful Drone Sites.md",
     "Untitled.canvas"
   ]
 }
