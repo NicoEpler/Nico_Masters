@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nico Masters/Drone Simulation nuc.md",
+                "file": "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5,
-    "collapsed": true
+    "width": 457.5
   },
   "right": {
     "id": "0055996111f5cf98",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nico Masters/Drone Simulation nuc.md",
+                "file": "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nico Masters/Drone Simulation nuc.md",
+                "file": "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nico Masters/Drone Simulation nuc.md"
+                "file": "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md"
               }
             }
           }
@@ -147,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bda9e8546a597671",
+  "active": "8da659f1aa6da09d",
   "lastOpenFiles": [
+    "Nico Masters/Drone Simulation nuc.md",
     "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
     "Nico Setup Guides/Software for setup of fresh PC (Windows).md",
-    "Nico Masters/Drone Simulation nuc.md",
     "Chris Guides/ROS2 commands.md",
     "Chris Guides/Setup/create ros2 workspace.md",
     "Chris Guides/Setup/Simulators.md",

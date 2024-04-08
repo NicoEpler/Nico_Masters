@@ -1,4 +1,23 @@
 
+# Disk Partitioning for Ubuntu Installation
+1. Upon selecting installation type, select "Something else"
+2. Select accessible hard disk e.g. /dev/sda OR /dev/sdb(ssd for my Acer)
+3. Select "New Pertition Tabel..."
+4. Click "Continue"
+5. This will create an empty partition under your selected hard disk.Select "Free Space" and click on the '+' sign in the bottom left corner. Then add the following partitions:
+	1. 4096 MB; Primary; Beginning of this space; Ext4 journaling filesystem; /boot
+	2. 16384 MB (2x RAM); Primary; Beginning of this space; swap area
+	3. 1024 MB; Primary; Beginning of this space; EFI System Partition
+	4. 1 MB; Primary; Beginning of this space; Reserved BIOS boot area
+	5. rest MB; Primary; Beginning of this space; XFS journaling file  system; /
+6. Under "Device for boot loader installation" select appropriate hard disk (the one that you just partitioned)(For my Acer it is /dev/sdb ATA LITEON IT L8T-12)
+7. Continue installation
+8. Upon restarting, if "No Bootable Device(with image)" is shown, do following:
+	1. Boot into BIOS
+	2. Go to Security
+	3. Select an UEFI file as trusted for executing->HDD0->EFI->ubuntu->shimx64.efi->(Enter a name. e.g. Ubuntu Startup)->Yes
+	4. NB. Erase all Secure boot settings and restore secure boot to factory settings before reinstalling ubuntu again, else .efi file (e.g. Ubuntu Startup) will be seen as a second operating system
+
 # VS code
 1. Open Ubuntu Software App
 2. Download and install code (VS Code)
