@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "8693088f0ae82446",
+    "id": "7e2747ae60a332d5",
     "type": "split",
     "children": [
       {
-        "id": "bbe20acfb6f52633",
+        "id": "abf85b8349a08ab9",
         "type": "tabs",
         "children": [
           {
-            "id": "8da659f1aa6da09d",
+            "id": "2e66b3d00b80991c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "60c70c2c3537632d",
+    "id": "45e29d28689dd9ec",
     "type": "split",
     "children": [
       {
-        "id": "9188aa89e9cee08d",
+        "id": "fde12f0150a9cc4d",
         "type": "tabs",
         "children": [
           {
-            "id": "bda9e8546a597671",
+            "id": "02edc21d0e77801c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +39,12 @@
             }
           },
           {
-            "id": "6db34bd7aa7f190c",
+            "id": "eca5101bd7e469f7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Getting",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "83ee8e01e896e30d",
+            "id": "3447278c861dcb7c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 300
   },
   "right": {
-    "id": "0055996111f5cf98",
+    "id": "51394adf7ea5e364",
     "type": "split",
     "children": [
       {
-        "id": "e4bad108cb601394",
+        "id": "b93445c9126bdcfe",
         "type": "tabs",
         "children": [
           {
-            "id": "2243ed54ddd63b04",
+            "id": "b68f3aef7b7bbf50",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "f1fb0985b9f7cfcc",
+            "id": "5575e36cd2f33b8a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cb9c50b8061d3d95",
+            "id": "c1716e9235c2c167",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "ac1928de7be9bced",
+            "id": "dbb6c3618c541293",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,34 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8da659f1aa6da09d",
-  "lastOpenFiles": [
-    "Chris Guides/Setup/Useful Latex Stuff.md",
-    "Chris Guides/Setup/Simulators.md",
-    "Chris Guides/Setup/create ros2 workspace.md",
-    "Nico Masters/Drone Simulation nuc.md",
-    "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
-    "Nico Setup Guides/Software for setup of fresh PC (Windows).md",
-    "Chris Guides/ROS2 commands.md",
-    "Nico Masters/Useful Drone Info.md",
-    "Nico Setup Guides/Useful Latex Stuff-NicoE.md",
-    "Nico Masters/Drone Simulations.md",
-    "Nico Masters/Drone Docking Station.md",
-    "Nico Masters/Add to Eneax Document.md",
-    "Nico Setup Guides/Running ROS2 and PX4 in Gazebo.md",
-    "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
-    "Nico Setup Guides/Windows Software Installations.md",
-    "Nico Setup Guides/Install LaTeX for Vistual Studio Code (Windows).md",
-    "Nico Setup Guides/Installing Git on Visual Studio Code (Windows).md",
-    "Nico Setup Guides/Cloning From Git using Lab PC.md",
-    "Computer Setup (Install All Software and Simulators).md",
-    "Chris Guides/Setup/Computer Setup (Install All Software and Simulators).md",
-    "Nico Setup Guides/Useful Latex Stuff.md",
-    "Nico Masters/Final Drone Design Specs.md",
-    "Nico Masters/Useful Drone Info from journal papers.md",
-    "Useful Latex Stuff.md",
-    "Guides/Setup/Useful Latex Stuff.md",
-    "Guides/Setup/Software.md",
-    "Untitled.canvas"
-  ]
+  "active": "2e66b3d00b80991c",
+  "lastOpenFiles": []
 }
