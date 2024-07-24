@@ -38,8 +38,7 @@ git config --global --list
 # Obsidian
 - download snap file from [Obsidian](https://obsidian.md/download)
 ```bash
-cd Downloads
-snap install obsidian_1.5.8_amd64.snap --dangerous --classic
+sudo snap install obsidian --classic
 ```
 - Open folder as vault, to access this file
 
@@ -61,7 +60,8 @@ sudo apt install terminator
 ```bash
 sudo apt install python3
 sudo apt install python3-pip
-sudo apt install python3-colcon-common-extensions
+#sudo apt install python3-colcon-common-extensions
+pip install -U colcon-common-extensions
 ```
 
 # Latex
@@ -101,15 +101,19 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-a
 
 sudo apt update
 sudo apt upgrade
+```
 
+```bash
 sudo apt install ros-humble-desktop
 
 sudo apt install ros-humble-ros-base
 
 sudo apt install ros-dev-tools
 
-sudo apt install python3-colcon-common-extensions
+#sudo apt install python3-colcon-common-extensions
+```
 
+```bash
 gedit ~/.bashrc
 ```
 add the following to the end of the `~/.bashrc` script:
