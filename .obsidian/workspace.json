@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "c9c1e8b491df96c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d06fe428e493bb2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ec1156306d05c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Thesis/Masters Thesis Structure and Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f18bf39e107d1df",
+    "type": "split",
+    "children": [
+      {
+        "id": "52d6ab776bec0348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cee1c1d3b8383a9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "067eae57aefa4476",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e60f293f01eabd0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2c3aa3c7f83bfa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e1bc5d8c7d0b366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebb36dc5f4419c30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Thesis/Masters Thesis Structure and Topics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1135604ca85e6369",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Thesis/Masters Thesis Structure and Topics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66698ee4102a374c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29873da93b07f383",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Thesis/Masters Thesis Structure and Topics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ec1156306d05c86",
+  "lastOpenFiles": [
+    "Nico_Masters_Obsidian/Steercom Stuff/Project Description and Progress-18 April 2024.md",
+    "4. Thesis/Masters Thesis Structure and Topics.md",
+    "1. Drone Constrution/Quotes/~$FastenerList_n2.tmp",
+    "1. Drone Constrution/Quotes/FastenerList_n2.docx",
+    "1. Drone Constrution/Quotes/FastenerList-n2.docx",
+    "1. Drone Constrution/Quotes/_.docx",
+    "1. Drone Constrution/Quotes/FastenerList_n1.docx",
+    "1. Drone Constrution/Quotes/FastenerList - Copy.docx",
+    "4. Thesis/4. Nico_Prev_Thesis_Component_Selection_Info/Nico Drone Construction/Images/Impala1.jpg",
+    "4. Thesis/4. Nico_Prev_Thesis_Component_Selection_Info/Nico Drone Construction/InterestingAdditionalComponentstoInvestigate.tex",
+    "4. Thesis/4. Nico_Prev_Thesis_Component_Selection_Info/Nico Drone Construction/README.md",
+    "4. Thesis/4. Nico_Prev_Thesis_Component_Selection_Info/Nico Drone Construction/Preface.tex",
+    "4. Thesis/4. Nico_Prev_Thesis_Component_Selection_Info/Nico Drone Construction/NicoDroneConstruction.toc",
+    "4. Thesis/4. Nico_Prev_Thesis_Component_Selection_Info/Nico Drone Construction/NicoDroneConstruction.synctex.gz",
+    "4. Thesis/4. Nico_Prev_Thesis_TComponent_Selection_Info/Nico Drone Construction/Images/Impala1.jpg",
+    "4. Thesis/4. Nico_Prev_Thesis_TComponent_Selection_Info/Nico Drone Construction/README.md",
+    "4. Thesis/4. Nico_Prev_Thesis_TComponent_Selection_info/Nico Drone Construction/Images/Impala1.jpg",
+    "4. Thesis/4. Nico_Prev_Thesis_TComponent_Selection_info/Nico Drone Construction/README.md",
+    "4. Thesis/4. Nico_Prev_Thesis/Nico Drone Construction/Images/Impala1.jpg",
+    "4. Thesis/4. Nico_Prev_Thesis/Nico Drone Construction/README.md",
+    "4. Thesis/2. All Diagrams/Enaex Pics + Vids/WhatsApp Image 2024-05-06 at 09.56.45.jpeg",
+    "4. Thesis/2. All Diagrams/Enaex Pics + Vids/WhatsApp Image 2024-05-06 at 09.44.30.jpeg",
+    "4. Thesis/2. All Diagrams/Enaex Pics + Vids/WhatsApp Image 2024-05-06 at 09.44.29.jpeg",
+    "4. Thesis/2. All Diagrams/Enaex Pics + Vids/Drone Cad 4.png",
+    "4. Thesis/2. All Diagrams/Enaex Pics + Vids/Drone Cad 3.png",
+    "4. Thesis/2. All Diagrams/Enaex Pics + Vids/Drone Cad 2.png"
+  ]
+}

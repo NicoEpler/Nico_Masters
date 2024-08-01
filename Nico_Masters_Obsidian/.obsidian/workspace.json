@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Nico Masters/Useful Drone Info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "015f1b47aa4f56e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa0d5f37a9104b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,19 +171,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8da659f1aa6da09d",
+  "active": "aa0d5f37a9104b5f",
   "lastOpenFiles": [
+    "Nico Masters/Final Drone Design Specs.md",
+    "Nico Masters/Drone Simulations.md",
     "Nico Masters/Drone Simulation nuc.md",
+    "Nico Masters/Drone Docking Station.md",
+    "Nico Masters/Useful Drone Info.md",
+    "Steercom Stuff",
+    "Steercom Stuff/Project Description and Progress-18 April 2024.md",
+    "ToDo.md",
     "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
     "Nico Setup Guides/Software for setup of fresh PC (Windows).md",
     "Chris Guides/ROS2 commands.md",
     "Chris Guides/Setup/create ros2 workspace.md",
     "Chris Guides/Setup/Simulators.md",
     "Chris Guides/Setup/Useful Latex Stuff.md",
-    "Nico Masters/Useful Drone Info.md",
     "Nico Setup Guides/Useful Latex Stuff-NicoE.md",
-    "Nico Masters/Drone Simulations.md",
-    "Nico Masters/Drone Docking Station.md",
     "Nico Masters/Add to Eneax Document.md",
     "Nico Setup Guides/Running ROS2 and PX4 in Gazebo.md",
     "Nico Setup Guides/Setup Micro XRCE-DDS Agent & Client without Git Access.md",
@@ -169,11 +198,7 @@
     "Computer Setup (Install All Software and Simulators).md",
     "Chris Guides/Setup/Computer Setup (Install All Software and Simulators).md",
     "Nico Setup Guides/Useful Latex Stuff.md",
-    "Nico Masters/Final Drone Design Specs.md",
     "Nico Masters/Useful Drone Info from journal papers.md",
-    "Useful Latex Stuff.md",
-    "Guides/Setup/Useful Latex Stuff.md",
-    "Guides/Setup/Software.md",
     "Untitled.canvas"
   ]
 }

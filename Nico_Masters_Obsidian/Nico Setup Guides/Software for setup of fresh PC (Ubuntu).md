@@ -1,4 +1,10 @@
 
+1. Create Ubuntu boot Drive
+2. Power on PC and spam  the F5 button (Might differ from PC to PC) to enter bootloader
+3. Go to startup preference tab or similar
+4. Set Bootdrive/thumbdrive as first preference
+5. Save and Exit
+6. Run through the installation prompts.
 # Disk Partitioning for Ubuntu Installation
 1. Upon selecting installation type, select "Something else"
 2. Select accessible hard disk e.g. /dev/sda OR /dev/sdb(ssd for my Acer)
