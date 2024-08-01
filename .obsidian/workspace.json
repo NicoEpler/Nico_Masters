@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "c9c1e8b491df96c9",
     "type": "split",
     "children": [
@@ -9,11 +10,26 @@
         "children": [
           {
             "id": "3ec1156306d05c86",
+=======
+    "id": "7e2747ae60a332d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "abf85b8349a08ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e66b3d00b80991c",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "4. Thesis/Masters Thesis Structure and Topics.md",
+=======
+                "file": "Nico_Masters_Obsidian/Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +41,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "5f18bf39e107d1df",
     "type": "split",
     "children": [
@@ -34,6 +51,17 @@
         "children": [
           {
             "id": "cee1c1d3b8383a9e",
+=======
+    "id": "45e29d28689dd9ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "fde12f0150a9cc4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02edc21d0e77801c",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +71,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "067eae57aefa4476",
+=======
+            "id": "eca5101bd7e469f7",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +90,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "e60f293f01eabd0c",
+=======
+            "id": "3447278c861dcb7c",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,6 +105,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300
   },
   "right": {
@@ -81,11 +118,29 @@
         "children": [
           {
             "id": "ebb36dc5f4419c30",
+=======
+    "width": 200
+  },
+  "right": {
+    "id": "51394adf7ea5e364",
+    "type": "split",
+    "children": [
+      {
+        "id": "b93445c9126bdcfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68f3aef7b7bbf50",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "4. Thesis/Masters Thesis Structure and Topics.md",
+=======
+                "file": "Nico_Masters_Obsidian/Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +152,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "1135604ca85e6369",
+=======
+            "id": "5575e36cd2f33b8a",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "4. Thesis/Masters Thesis Structure and Topics.md",
+=======
+                "file": "Nico_Masters_Obsidian/Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "66698ee4102a374c",
+=======
+            "id": "c1716e9235c2c167",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +187,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "29873da93b07f383",
+=======
+            "id": "dbb6c3618c541293",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "4. Thesis/Masters Thesis Structure and Topics.md"
+=======
+                "file": "Nico_Masters_Obsidian/Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md"
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
               }
             }
           }
@@ -146,6 +221,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "3ec1156306d05c86",
   "lastOpenFiles": [
     "Nico_Masters_Obsidian/Steercom Stuff/Project Description and Progress-18 April 2024.md",
@@ -175,4 +251,8 @@
     "4. Thesis/2. All Diagrams/Enaex Pics + Vids/Drone Cad 3.png",
     "4. Thesis/2. All Diagrams/Enaex Pics + Vids/Drone Cad 2.png"
   ]
+=======
+  "active": "2e66b3d00b80991c",
+  "lastOpenFiles": []
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
 }

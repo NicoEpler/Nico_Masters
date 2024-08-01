@@ -1,4 +1,5 @@
 
+Full instructions in Nuc_Obsidian_Vault in file called "Drone Simulation(Humble PX4)"
 # Installation and basics
 
 1. Changes made for [installation](https://github.com/ARK-Electronics/ROS2_PX4_Offboard_Example?tab=readme-ov-file#readme) of PX4 and Gazebo Sim

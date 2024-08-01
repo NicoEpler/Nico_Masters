@@ -177,16 +177,26 @@
     "Nico Masters/Drone Simulations.md",
     "Nico Masters/Drone Simulation nuc.md",
     "Nico Masters/Drone Docking Station.md",
+<<<<<<< HEAD
     "Nico Masters/Useful Drone Info.md",
     "Steercom Stuff",
     "Steercom Stuff/Project Description and Progress-18 April 2024.md",
     "ToDo.md",
+=======
+    "Nico Masters/Drone Simulations.md",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
     "Nico Setup Guides/Software for setup of fresh PC (Ubuntu).md",
-    "Nico Setup Guides/Software for setup of fresh PC (Windows).md",
     "Chris Guides/ROS2 commands.md",
-    "Chris Guides/Setup/create ros2 workspace.md",
-    "Chris Guides/Setup/Simulators.md",
+    "Chris Guides/Simulators/Ros Gym.md",
     "Chris Guides/Setup/Useful Latex Stuff.md",
+<<<<<<< HEAD
+=======
+    "Chris Guides/Setup/Simulators.md",
+    "Chris Guides/Setup/create ros2 workspace.md",
+    "Chris Guides/Python Gym/Skeleton for simulation loop.md",
+    "Nico Setup Guides/Software for setup of fresh PC (Windows).md",
+    "Nico Masters/Useful Drone Info.md",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
     "Nico Setup Guides/Useful Latex Stuff-NicoE.md",
     "Nico Masters/Add to Eneax Document.md",
     "Nico Setup Guides/Running ROS2 and PX4 in Gazebo.md",
@@ -199,6 +209,10 @@
     "Chris Guides/Setup/Computer Setup (Install All Software and Simulators).md",
     "Nico Setup Guides/Useful Latex Stuff.md",
     "Nico Masters/Useful Drone Info from journal papers.md",
+<<<<<<< HEAD
+=======
+    "Useful Latex Stuff.md",
+>>>>>>> 3984f95c453c93d965c810b8597ba31ce17810a1
     "Untitled.canvas"
   ]
 }
