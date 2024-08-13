@@ -8,7 +8,7 @@
 # Disk Partitioning for Ubuntu Installation
 1. Upon selecting installation type, select "Something else"
 2. Select accessible hard disk e.g. /dev/sda OR /dev/sdb(ssd for my Acer)
-3. Select "New Pertition Tabel..."
+3. Select "New Partition Tabel..."
 4. Click "Continue"
 5. This will create an empty partition under your selected hard disk.Select "Free Space" and click on the '+' sign in the bottom left corner. Then add the following partitions:
 	1. 4096 MB; Primary; Beginning of this space; Ext4 journaling filesystem; /boot
