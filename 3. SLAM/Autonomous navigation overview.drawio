@@ -1,0 +1,162 @@
+<mxfile host="Electron" modified="2024-09-20T09:22:48.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.6 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="XPjD65_Of3Vzg_lIUrKC" version="24.4.6" type="device">
+  <diagram name="Page-1" id="kEZzHXlPn6_qfE6q5SZ6">
+    <mxGraphModel dx="2571" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-387" y="30" width="1217" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF33;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="280" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="280" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="130" width="560" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="230" width="260" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="230" width="260" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kl1fn4-iVeOU36ReKjDK-1" target="kl1fn4-iVeOU36ReKjDK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl1fn4-iVeOU36ReKjDK-1" target="kl1fn4-iVeOU36ReKjDK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl1fn4-iVeOU36ReKjDK-1" target="kl1fn4-iVeOU36ReKjDK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;u style=&quot;&quot;&gt;Autonomous Exploration&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl1fn4-iVeOU36ReKjDK-2" target="kl1fn4-iVeOU36ReKjDK-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-157" y="220" />
+              <mxPoint x="-240" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl1fn4-iVeOU36ReKjDK-2" target="kl1fn4-iVeOU36ReKjDK-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-43" y="220" />
+              <mxPoint x="40" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;SLAM&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl1fn4-iVeOU36ReKjDK-3" target="kl1fn4-iVeOU36ReKjDK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Collision Avoidance&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl1fn4-iVeOU36ReKjDK-4" target="kl1fn4-iVeOU36ReKjDK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Path Planning&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-5" value="1. Predict obstacles&lt;div&gt;&lt;ol&gt;&lt;li&gt;Circumnavigate&lt;/li&gt;&lt;li&gt;Avoid&lt;/li&gt;&lt;li&gt;Mark threat&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp; 2. Most recent point cloud&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;From RGBD Camera&lt;/li&gt;&lt;li&gt;Other sensors&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&amp;nbsp; 3. Collision Avoidance Algorithm&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Check for obstacles&lt;/li&gt;&lt;li&gt;Decide how to handle threat&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-6" value="1. Find Path that has not been&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; explored&lt;div&gt;&lt;ol&gt;&lt;li&gt;Markn unexplored entry&lt;/li&gt;&lt;li&gt;Explore new territory&lt;/li&gt;&lt;li&gt;Re-explore and update prev explored territory&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&amp;nbsp; 2. Global Map&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;From SLAM&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="240" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-7" value="&lt;div&gt;1. Global Map&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Accumulation of aligned Point Clouds&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&amp;nbsp; 2. Point Cloud Data (Coloured of&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; not):&lt;div&gt;&lt;ol&gt;&lt;li&gt;From RGBD Camera&lt;/li&gt;&lt;/ol&gt;&amp;nbsp; 3. Global Position:&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;To correctly allign Most recent PCD to Global Map&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="320" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1. Position:&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Global Position&lt;/span&gt;&lt;/li&gt;&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Home point&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Addition of local Positioning (most recent movement)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Local Position&lt;/span&gt;&lt;/li&gt;&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;IMU&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Optical Flow Sensor (incl. lidar)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;RGBD Camera&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="320" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl1fn4-iVeOU36ReKjDK-14" target="kl1fn4-iVeOU36ReKjDK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u&gt;Localization&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl1fn4-iVeOU36ReKjDK-15" target="kl1fn4-iVeOU36ReKjDK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u&gt;Mapping&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-21" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;Needs:&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Movement&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Distance/Velocity/ Acceleration data&lt;/li&gt;&lt;li&gt;Drift Correction (if exists)&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="585" width="240" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Step 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Step 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Step 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Step 1.2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Step 1.1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-32" value="" style="endArrow=block;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endFill=1;strokeWidth=2;" edge="1" parent="1" source="kl1fn4-iVeOU36ReKjDK-21" target="kl1fn4-iVeOU36ReKjDK-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="645" as="sourcePoint" />
+            <mxPoint x="20" y="595" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-100" y="645" />
+              <mxPoint x="-100" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Dependent on&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-152" y="510" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-34" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Options:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;IMU + Cam(Feature Detection)&lt;/li&gt;&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Comp.&amp;nbsp; Exp., Slow&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;&quot;&gt;Optical Flow???&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="750" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-35" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Options:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;RTAB-Map&lt;/li&gt;&lt;li&gt;ORB-SLAM3&lt;/li&gt;&lt;li&gt;Elastic Fusion&lt;/li&gt;&lt;li&gt;Own implementation&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="750" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-36" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Options:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;PX4 Obstacle Avoidance&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Vector Field Histogram&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Dynamic Window Approach&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;(RL)-based Approach&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Sensor Fusion (incl. Kalman)&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=2;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="240" y="750" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-37" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Options:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Frontier-based Exploration&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Next Best View (comp exp?)&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Rapidly-exploring Random Tree (RRT) with Exploration Bias&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Information Gain-based Path Planning&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Random Walk with Memory (or Bias)&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=2;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="560" y="750" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="440" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="400" width="227" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="246.5" y="340" width="227" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-44" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;Needs:&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;ol&gt;&lt;li&gt;Global Position&lt;/li&gt;&lt;li&gt;RGBD PCD&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="584.5" width="240" height="125.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-45" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;Needs:&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;ol&gt;&lt;li&gt;RGBD PCD&lt;/li&gt;&lt;li&gt;Possibly: Global position + map for threat marking&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="585" width="240" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-46" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;Needs:&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;ol&gt;&lt;li&gt;Global Map&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="585" width="240" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="566.5" y="375" width="227" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="kl1fn4-iVeOU36ReKjDK-49" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;Own SLAM implementation (partially from skripsie):&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;Localisation&lt;/u&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Use Optical Flow(incl. Lidar) together with IMU for localisation&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;u&gt;Mapping&lt;/u&gt;:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;asc&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1030" width="240" height="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

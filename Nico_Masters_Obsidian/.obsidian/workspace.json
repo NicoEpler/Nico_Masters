@@ -1,26 +1,14 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "db776d044c752058",
+    "id": "dd5555ffaf66a01c",
     "type": "split",
     "children": [
       {
-        "id": "d85dd0c0dc91a84a",
+        "id": "03b5fefb87bb072e",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b82701479b1929",
-=======
-    "id": "331e118a49e91835",
-    "type": "split",
-    "children": [
-      {
-        "id": "7fa90b38f8d062e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc78c0f4a8910554",
->>>>>>> 7892b30ddba391e68f8dc64a0c499910946da645
+            "id": "5ec77d3176ec057f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,27 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "3b3b5e7e81542328",
+    "id": "33beed6c1d45d1de",
     "type": "split",
     "children": [
       {
-        "id": "3a5158268e28b50a",
+        "id": "77963d84f3c38009",
         "type": "tabs",
         "children": [
           {
-            "id": "ca807652a8f566cf",
-=======
-    "id": "11e31eaa21e0553b",
-    "type": "split",
-    "children": [
-      {
-        "id": "ea2cc217d67a4aec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "93d1ab79cf43d9e6",
->>>>>>> 7892b30ddba391e68f8dc64a0c499910946da645
+            "id": "5a1c34b795d09c41",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,11 +43,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "e28b152fc11e4a30",
-=======
-            "id": "e00d057138eacfce",
->>>>>>> 7892b30ddba391e68f8dc64a0c499910946da645
+            "id": "e1c10fc3b474a5e2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -86,11 +58,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "cbfa651dd1e5f90c",
-=======
-            "id": "4457968aa42e762e",
->>>>>>> 7892b30ddba391e68f8dc64a0c499910946da645
+            "id": "44cc570d16452502",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,27 +72,15 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "92688e077bfbcb86",
+    "id": "cfa6dd2ecc52f99f",
     "type": "split",
     "children": [
       {
-        "id": "a4fc385662bccfa2",
+        "id": "6809f466ee27345f",
         "type": "tabs",
         "children": [
           {
-            "id": "ec36b5c6e3c74b87",
-=======
-    "id": "9f56c3cc55a4e686",
-    "type": "split",
-    "children": [
-      {
-        "id": "875f7849e5c6064d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff3242cc4b452a66",
->>>>>>> 7892b30ddba391e68f8dc64a0c499910946da645
+            "id": "2d5909b58599d67d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -141,11 +97,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "3db6873d9134cb3e",
-=======
-            "id": "13fb402958c0d74c",
->>>>>>> 7892b30ddba391e68f8dc64a0c499910946da645
+            "id": "ec711b4da4153cf8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -157,11 +109,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "c0b706a43c53caff",
-=======
-            "id": "f953003a46fbb3fe",
->>>>>>> 7892b30ddba391e68f8dc64a0c499910946da645
+            "id": "bea8032261f1d403",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,11 +120,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "b30dbf4e9e775c5b",
-=======
-            "id": "b452c369851fb726",
->>>>>>> 7892b30ddba391e68f8dc64a0c499910946da645
+            "id": "7d5060e81d119ed0",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -202,10 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "c9b82701479b1929",
-=======
-  "active": "dc78c0f4a8910554",
->>>>>>> 7892b30ddba391e68f8dc64a0c499910946da645
-  "lastOpenFiles": []
+  "active": "5ec77d3176ec057f",
+  "lastOpenFiles": [
+    "Hackathon/Pothole Detection.md",
+    "Hackathon"
+  ]
 }
